@@ -1,0 +1,40 @@
+h1{
+    color: peru;
+}
+img {
+    height: 200px;
+    width: 200px;
+  }
+
+  nav {
+    height: 9vh;
+  }
+
+  li {
+    height: 7vh;
+    font-size: 100%;
+  }
+
+  .sam {
+    display: flex;
+    justify-content: center;
+
+  }
+
+  h3 {
+    text-align: center;
+  }
+
+  
+
+  .form {
+    width: 400px;
+    padding:20px;
+    border: white 2px solid;
+    background: #242124;
+    background-size: cover;
+    background-position: center;
+  }
+  form{
+    color: white;
+  }
